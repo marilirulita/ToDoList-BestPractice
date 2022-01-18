@@ -9,7 +9,6 @@
 ## Built With
 
 - Java Script
-- Webpack
 - HTML & CSS
 
 
