@@ -1,76 +1,58 @@
 ![](https://img.shields.io/badge/Microverse-blueviolet)
 
-# Project Name
+# ToDoList-BestPractice
 
-> One paragraph statement about the project.
+> This project is build for practice the better way to give and receive fedback on a pull request.
 
-![screenshot](./app_screenshot.png)
-
-Additional description about the project and its features.
+![screenshot](./Screenshot_7.png)
 
 ## Built With
 
-- Major languages
-- Frameworks
-- Technologies used
-
-## Live Demo
-
-[Live Demo Link](https://livedemo.com)
+- Java Script
+- HTML & CSS
 
 
 ## Getting Started
 
-**This is an example of how you may give instructions on setting up your project locally.**
-**Modify this file to match your project, remove sections that don't apply. For example: delete the testing section if the currect project doesn't require testing.**
+- Run this command in your OS terminal to get a copy of the project:
 
+  ```
+  git@github.com:marilirulita/ToDoList-BestPractice.git
+  ```
 
-To get a local copy up and running follow these simple example steps.
+- Open the folder project from your code editor.
 
-### Prerequisites
+- Run:
+
+  ```
+  npm install
+  ```
+  
+- From the root folder run start command to see the project on browser: 
+
+  ```
+  npm start
+  ```
 
 ### Setup
 
-### Install
-
-### Usage
-
-### Run tests
-
-### Deployment
-
-
+* Clone the repository in order to get a copy of this project
 
 ## Authors
 
-👤 **Author1**
+#### Mar Bautista
+GitHub: [marilirulita](https://github.com/marilirulita)
 
-- GitHub: [@githubhandle](https://github.com/githubhandle)
-- Twitter: [@twitterhandle](https://twitter.com/twitterhandle)
-- LinkedIn: [LinkedIn](https://linkedin.com/in/linkedinhandle)
+LinkedIn: [mar bautista](https://www.linkedin.com/in/marbautista/)
 
-👤 **Author2**
-
-- GitHub: [@githubhandle](https://github.com/githubhandle)
-- Twitter: [@twitterhandle](https://twitter.com/twitterhandle)
-- LinkedIn: [LinkedIn](https://linkedin.com/in/linkedinhandle)
+Twitter: [@marylirulita](https://twitter.com/marylirulita)
 
 ## 🤝 Contributing
 
 Contributions, issues, and feature requests are welcome!
 
-Feel free to check the [issues page](../../issues/).
+Feel free to check the [issues page](https://github.com/marilirulita/ToDoList-BestPractice/issues).
 
 ## Show your support
 
 Give a ⭐️ if you like this project!
-
-## Acknowledgments
-
-- Hat tip to anyone whose code was used
-- Inspiration
-- etc
-
-## 📝 License
-
-This project is [MIT](./MIT.md) licensed.
